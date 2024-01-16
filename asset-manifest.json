@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolioSylvain/static/css/main.b057d0c0.css",
+    "main.js": "/portfolioSylvain/static/js/main.222dc595.js",
+    "index.html": "/portfolioSylvain/index.html",
+    "main.b057d0c0.css.map": "/portfolioSylvain/static/css/main.b057d0c0.css.map",
+    "main.222dc595.js.map": "/portfolioSylvain/static/js/main.222dc595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b057d0c0.css",
+    "static/js/main.222dc595.js"
+  ]
+}
